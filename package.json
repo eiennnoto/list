@@ -1,0 +1,12 @@
+{
+  "name": "render-video-list",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cookie-based video list with a Render proxy for YouTube thumbnails and Classroom titles.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
